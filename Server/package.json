@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hazarkir.github.io/todolist",
+  "homepage": "https://hazarkir.github.io/todolist/Server",
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
